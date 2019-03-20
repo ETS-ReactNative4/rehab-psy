@@ -241,11 +241,8 @@ export default class Presentation extends React.Component {
             Дима Семьюшкин
           </LText>
           <LText textColor="tertiary">
-            март 2019, Piter.js
+            март 2019, PiterJS
           </LText>
-          <Appear>
-            <ChushText textColor="red" caps>Ψ→IT</ChushText>
-          </Appear>
           <SPAN/>
         </Slide>
         <Slide>
